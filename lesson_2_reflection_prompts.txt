@@ -20,10 +20,12 @@ nothing added to commit but untracked files present (use "git add" to track)
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-between directory and repository.
+ANS) between directory and repository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+ANS) add file changed to staging area, then commit to move to git commit area, repeat for aother logical changes
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
